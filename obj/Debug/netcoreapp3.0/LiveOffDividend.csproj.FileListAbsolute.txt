@@ -1,0 +1,11 @@
+C:\Users\Frans\Dropbox\Projects\LiveOffDividend\bin\Debug\netcoreapp3.0\LiveOffDividend.exe
+C:\Users\Frans\Dropbox\Projects\LiveOffDividend\bin\Debug\netcoreapp3.0\LiveOffDividend.deps.json
+C:\Users\Frans\Dropbox\Projects\LiveOffDividend\bin\Debug\netcoreapp3.0\LiveOffDividend.runtimeconfig.json
+C:\Users\Frans\Dropbox\Projects\LiveOffDividend\bin\Debug\netcoreapp3.0\LiveOffDividend.runtimeconfig.dev.json
+C:\Users\Frans\Dropbox\Projects\LiveOffDividend\bin\Debug\netcoreapp3.0\LiveOffDividend.dll
+C:\Users\Frans\Dropbox\Projects\LiveOffDividend\bin\Debug\netcoreapp3.0\LiveOffDividend.pdb
+C:\Users\Frans\Dropbox\Projects\LiveOffDividend\obj\Debug\netcoreapp3.0\LiveOffDividend.csprojAssemblyReference.cache
+C:\Users\Frans\Dropbox\Projects\LiveOffDividend\obj\Debug\netcoreapp3.0\LiveOffDividend.AssemblyInfoInputs.cache
+C:\Users\Frans\Dropbox\Projects\LiveOffDividend\obj\Debug\netcoreapp3.0\LiveOffDividend.AssemblyInfo.cs
+C:\Users\Frans\Dropbox\Projects\LiveOffDividend\obj\Debug\netcoreapp3.0\LiveOffDividend.dll
+C:\Users\Frans\Dropbox\Projects\LiveOffDividend\obj\Debug\netcoreapp3.0\LiveOffDividend.pdb
